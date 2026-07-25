@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the following work."
+title: "Deep Learning Framework for Kinematic Event Detection and Stimulation Decoding in Primate Reaching Behavior"
+authors:
+  - family-names: Markus
+    given-names: Avital
+    affiliation: "Faculty of Engineering, Bar-Ilan University, Ramat Gan, Israel"
+  - family-names: Sinha
+    given-names: Nirvik
+    affiliation: "Edmond and Lily Safra Center for Brain Sciences, The Hebrew University of Jerusalem; Northwestern University"
+  - family-names: Prut
+    given-names: Yifat
+    affiliation: "Edmond and Lily Safra Center for Brain Sciences, The Hebrew University of Jerusalem, Israel"
+  - family-names: Goldberger
+    given-names: Jacob
+    affiliation: "Faculty of Engineering, Bar-Ilan University, Ramat Gan, Israel"
+year: 2026
+license: GPL-3.0
+repository-code: "https://github.com/TaliVas/monkey-alignment-network"
+preferred-citation:
+  type: article
+  title: "Deep learning framework for kinematic event detection and stimulation decoding in primate reaching behavior"
+  authors:
+    - {family-names: Markus, given-names: Avital}
+    - {family-names: Sinha, given-names: Nirvik}
+    - {family-names: Prut, given-names: Yifat}
+    - {family-names: Goldberger, given-names: Jacob}
+  year: 2026
+  notes: "Preprint: bioRxiv, Manuscript ID BIORXIV/2026/738537."
