@@ -70,10 +70,6 @@ For the decoding task, class-balanced control/HFS subsets are provided in `featu
 | Figs. 4–5 (within/inter-animal HFS decoding) | `hfs_decoding_train_eval.py` |
 | Fig. 6 (architecture schematic) | — (diagram) |
 
-## Decoding (to add)
-
-The public repo currently ships the detection/alignment code. Add the decoding entry point `src/hfs_decoding_train_eval.py` (exported from the project’s decoding notebook), plus the class-balanced control/HFS subset feature files, so Figs. 4–5 are reproducible. It shares the BiLSTM encoder from event detection; only the head (classification vs. regression) and loss differ.
-
 ## Citation
 
 If you use this code, please cite the paper (see `CITATION.cff`).
