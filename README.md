@@ -24,7 +24,7 @@ monkey-alignment-network/
 │   ├── onset_model_train_eval.py
 │   ├── turning_model_train_eval.py
 │   ├── turn_10_times_no_align.py
-│   └── hfs_decoding_train_eval.py     # <-- TO ADD (see “Decoding” below)
+│   └── hfs_decoding_train_eval.py
 ├── features/                    # Subset feature files (200 trials each)
 ├── requirements.txt
 ├── CITATION.cff
@@ -44,7 +44,7 @@ Tested with Python 3.10. Main dependencies: PyTorch, NumPy, pandas, SciPy, sciki
 
 ## Data availability
 
-This repository contains **subset feature files with 200 trials each** (the full dataset is 10,000–13,000+ trials per animal). The subsets reproduce the full pipeline at reduced size. The **complete dataset is available from the corresponding author (Y. Prut, yifat.prut@mail.huji.ac.il) upon reasonable request.**
+This repository contains **subset feature files with 200 trials each** (the full dataset is 10,000–13,000+ trials per animal). The subsets reproduce the full pipeline at reduced size. The **complete dataset is available upon reasonable request.**
 
 Subset files in `features/`:
 - `Features_nana_subset`, `Features_nana_aligned_subset`
